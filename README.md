@@ -10,6 +10,7 @@ In order to run the program -
  3. Run: java -jar -jar reviewAnalyser.jar filePath 
  
  In order to run the program with calling to google-translate mocked api
+ 
  4. Run:  java -jar -jar reviewAnalyser.jar filePath translate=true
 
  
