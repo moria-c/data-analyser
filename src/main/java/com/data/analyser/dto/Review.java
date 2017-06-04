@@ -2,9 +2,6 @@ package com.data.analyser.dto;
 
 import com.data.analyser.component.ReviewsFileDescriptor;
 
-/**
- * Created by moria.cohen on 6/2/17.
- */
 public class Review {
 
     String id;

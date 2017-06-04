@@ -1,8 +1,5 @@
 package com.data.analyser.dto;
 
-/**
- * Created by moria.cohen on 6/1/17.
- */
 public class User {
     private String id;
     private String profileName;
